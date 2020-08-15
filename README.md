@@ -4,9 +4,6 @@ A new Flutter Travel application. Designed by Icha Mawaddah Febriyana, Code with
 
 # Travel App UI Design - Flutter UI Best Practice
 
-**Project Starter Code**
-- flutter_book_app_starter.zip [get file](https://gum.co/WMkFC)
-
 **Packages we are using:**
 
 - _flutter_svg_ : [get package](https://pub.dev/packages/flutter_svg)
