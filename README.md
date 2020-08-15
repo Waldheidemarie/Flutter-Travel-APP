@@ -1,6 +1,6 @@
 # fluttertravelapp
 
-A new Flutter Travel application. Designed by Icha Mawaddah Febriyana, Code with Flutter by Abdul Aziz Ahwan
+A new Flutter Travel application. Designed by Icha Mawaddah Febriyana, Code with Flutter by [Nirdesh Pokharel](https://nirdeshpokhrel.com.np)
 
 # Travel App UI Design - Flutter UI Best Practice
 
